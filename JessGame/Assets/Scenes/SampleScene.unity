@@ -673,7 +673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c90bebdf12c5e84da96cb366e6c8b04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blockPrefab: {fileID: 8797715965175197552, guid: 64b786fa232533543b4395dfa04ea17a, type: 3}
+  blockPrefab: {fileID: 9012912323649916230, guid: af1f0570f49afb2468623c5a3c3f07fb, type: 3}
   blockLimit: 10
 --- !u!1 &1132900411
 GameObject:
